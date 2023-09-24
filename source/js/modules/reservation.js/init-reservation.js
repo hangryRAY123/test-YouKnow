@@ -23,5 +23,4 @@ export const initResrvation = () => {
       card[index].removeEventListener('mouseleave', addOverlay);
     };
   });
-
 };
